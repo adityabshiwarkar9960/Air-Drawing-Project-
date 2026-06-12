@@ -1,6 +1,6 @@
 # Air Drawing Project
 
-This repository contains an air-drawing app that uses webcam hand tracking to draw, erase, and transform strokes in real time.
+This project contains an air-drawing app that uses webcam hand tracking to draw, erase, and transform strokes in real time.
 
 ## Project Layout
 
