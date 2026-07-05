@@ -8,4 +8,4 @@ This project contains an air-drawing app that uses webcam hand tracking to draw,
 - `AiR DRAW/README.md` - setup and controls
 - `AiR DRAW/requirements.txt` - Python dependencies
 - `AiR DRAW/models/hand_landmarker.task` - MediaPipe hand model
-- `models/hand_landmarker.task` - model copy kept at the repo
+- `models/hand_landmarker.task` - model copy kept at the repositary
