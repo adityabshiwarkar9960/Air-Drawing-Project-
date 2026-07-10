@@ -2,7 +2,7 @@
 
 This project contains an air-drawing app that uses webcam hand tracking to draw, erase, and transform strokes in real time.
 
-## Project Layout
+## Project Layout:
 
 - `AiR DRAW/air_draw.py` - main application
 - `AiR DRAW/README.md` - setup and controls
